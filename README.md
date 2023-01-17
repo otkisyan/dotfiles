@@ -1,6 +1,6 @@
 # My dotfiles 💾
 ![oh-my-zsh screenshot](./images/terminal.png)
-![astronvim screenshot](./images/nvim.png)
+![astronvim screenshot](./images/astronvim.png)
 
 **WARNING:** Don't blindly use my settings. Proceed at your own risk!
 
