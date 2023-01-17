@@ -26,7 +26,7 @@
 - [.tmux.conf](.tmux.conf) - Tmux Configuration File
 
 # Neovim setup
-I use [AstroNvim](https://github.com/AstroNvim/AstroNvim) - is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
+I use [AstroNvim](https://github.com/AstroNvim/AstroNvim) - an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 
 **NOTE:** Please read the [requirements](https://github.com/AstroNvim/AstroNvim#-requirements) for correct installation.
 
