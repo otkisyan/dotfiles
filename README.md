@@ -1,4 +1,6 @@
 # My dotfiles 💾
+![oh-my-zsh screenshot](./images/terminal.png)
+
 **WARNING:** Don't blindly use my settings. Proceed at your own risk!
 
 # Terminal Setup
