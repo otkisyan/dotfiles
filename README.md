@@ -11,6 +11,7 @@
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for Zsh
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - a theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 - [SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized) - Apple's SFMono font nerd-font patched and ligaturized
+- [Exa](https://github.com/ogham/exa) - A modern replacement for `ls`.
 
 ### Relevant files
 - [.zshrc](.zshrc) - Zsh Shell Configuration
