@@ -111,4 +111,4 @@ source $ZSH/oh-my-zsh.sh
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 alias ls='exa --icons'
 alias ll='exa -l -g --icons'
-alias lla='exa -a --icons'
+alias lla='exa -a -l -g --icons'
