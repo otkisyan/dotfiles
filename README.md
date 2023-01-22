@@ -1,4 +1,4 @@
-# My dotfiles 💾
+# My dotfiles...
 ![oh-my-zsh screenshot](./images/terminal.png)
 ![astronvim screenshot](./images/astronvim.png)
 
