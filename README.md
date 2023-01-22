@@ -30,7 +30,23 @@
 # Neovim setup
 I use [AstroNvim](https://github.com/AstroNvim/AstroNvim) - an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 
-**NOTE:** Please read the [requirements](https://github.com/AstroNvim/AstroNvim#-requirements) for correct installation
+- [vim-nightfly-colors](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight theme for classic Vim & modern Neovim
+
+Setting a custom colorscheme with `nightfly` in `user/init.lua`:
+
+```lua
+local config = {
+
+        colorscheme = "nightfly",
+},
+
+        plugins = {
+                init = {
+                        "bluz71/vim-nightfly-colors",
+                },
+        },
+}
+```
 
 ### Relevant files
 - [.config/nvim/lua/user](.config/nvim/lua/user) - My user config
