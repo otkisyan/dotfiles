@@ -49,4 +49,4 @@ local config = {
 ```
 
 ### Relevant files
-- [.config/nvim/lua/user](.config/nvim/lua/user) - My user config
+- [.config/nvim/lua/user/init.lua](.config/nvim/lua/user/init.lua) - My user config
