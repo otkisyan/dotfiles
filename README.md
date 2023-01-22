@@ -37,9 +37,10 @@ Setting a custom colorscheme with `nightfly` in `user/init.lua`:
 ```lua
 local config = {
 
+        -- Set colorscheme to use
         colorscheme = "nightfly",
-},
 
+        -- Configure plugins
         plugins = {
                 init = {
                         "bluz71/vim-nightfly-colors",
