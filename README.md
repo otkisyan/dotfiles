@@ -1,7 +1,8 @@
-# My dotfiles...
 ![oh-my-zsh screenshot](./images/terminal.png)
 ![astronvim screenshot](./images/astronvim.png)
+The wallpaper from the screenshots can be found [here](https://github.com/dotnet-presentations/dotNET20th)
 
+# My dotfiles...
 **WARNING:** Don't blindly use my settings. Proceed at your own risk!
 
 # Terminal Setup
