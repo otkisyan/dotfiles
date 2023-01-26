@@ -33,22 +33,5 @@ I use [AstroNvim](https://github.com/AstroNvim/AstroNvim) - an aesthetic and fea
 
 - [vim-nightfly-colors](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight theme for classic Vim & modern Neovim
 
-Setting a custom colorscheme with `nightfly` in `user/init.lua`:
-
-```lua
-local config = {
-
-        -- Set colorscheme to use
-        colorscheme = "nightfly",
-
-        -- Configure plugins
-        plugins = {
-                init = {
-                        "bluz71/vim-nightfly-colors",
-                },
-        },
-}
-```
-
 ### Relevant files
 - [.config/nvim/lua/user/init.lua](.config/nvim/lua/user/init.lua) - My user config
