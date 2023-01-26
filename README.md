@@ -16,6 +16,7 @@ The wallpaper from the screenshots can be found [here](https://github.com/dotnet
 
 ### Relevant files
 - [.zshrc](.zshrc) - Zsh Shell Configuration
+- [solarized-nightfly.itermcolors](solarized-nightfly.itermcolors) - iTerm2 Color Scheme
 
 # Tmux Setup
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
