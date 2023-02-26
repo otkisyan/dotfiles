@@ -14,6 +14,11 @@ To set up the dotfiles run the appropriate snippet in the terminal:
 bash -c "$(curl -LsS https://raw.githubusercontent.com/otkisyan/dotfiles/master/scripts/setup.sh)"
 ```
 
+**NOTE:** Setup requires Xcode Command Line Tools, to install it do: 
+```bash
+xcode-select --install
+```
+
 __DON'T__ run the setup script if you don't understand [what it does](scripts/setup.sh). Proceed at your own risk!
 
 # Terminal Setup
