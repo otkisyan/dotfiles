@@ -1,9 +1,20 @@
+# My dotfiles...
+
 ![oh-my-zsh screenshot](./images/terminal.png)
 ![astronvim screenshot](./images/astronvim.png)
 The wallpaper from the screenshots can be found [here](https://github.com/dotnet-presentations/dotNET20th)
 
-# My dotfiles...
-**WARNING:** Don't blindly use my settings. Proceed at your own risk!
+
+
+# Setup
+[![ci](https://github.com/otkisyan/dotfiles/actions/workflows/macos.yml/badge.svg)](https://github.com/otkisyan/dotfiles/actions/workflows/macos.yml)
+
+To set up the dotfiles run the appropriate snippet in the terminal:
+```bash
+bash -c "$(curl -LsS https://raw.githubusercontent.com/otkisyan/dotfiles/master/scripts/setup.sh)"
+```
+
+__DON'T__ run the setup script if you don't understand [what it does](scripts/setup.sh). Proceed at your own risk!
 
 # Terminal Setup
 - [iTerm2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm
