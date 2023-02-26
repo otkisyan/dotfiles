@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPO_URL="https://github.com/otkisyan/dotfiles-private.git"
+REPO_URL="https://github.com/otkisyan/dotfiles.git"
 CLONE_DIR="$HOME/dotfiles"
 
 git clone $REPO_URL $CLONE_DIR
