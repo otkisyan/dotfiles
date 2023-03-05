@@ -6,16 +6,13 @@ CLONE_DIR="$HOME/dotfiles"
 git clone $REPO_URL $CLONE_DIR
 cd $CLONE_DIR
 
-cp -f solarized-nightfly.itermcolors ~/
-
 bash ./scripts/brew.sh
 bash ./scripts/npm.sh
-
-git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim
-cp -rf .config ~/
-
+bash ./scripts/nvim.sh
 bash ./scripts/oh-my-zsh.sh
 bash ./scripts/tmux.sh
+
+cp -f ./src/solarized-nightfly.itermcolors ~/
 
 cd ..
 rm -rf "$CLONE_DIR"
