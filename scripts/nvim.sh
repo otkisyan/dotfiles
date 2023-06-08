@@ -2,4 +2,4 @@
 
 git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim
 cp -rf ./src/.config ~/
-nvim -es +PackerSync
+nvim --headless "+Lazy! sync" +qa
