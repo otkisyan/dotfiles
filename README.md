@@ -28,7 +28,7 @@ xcode-select --install
 - [Oh My Zsh](https://ohmyz.sh/) - Oh My Zsh is an open source, community-driven framework for managing your Zsh configuration
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for Zsh
-- [powerlevel10k](https://github.com/romkatv/powerlevel10k) - a theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A theme for Zsh, it emphasizes speed, flexibility and out-of-the-box experience
 - [SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized) - Apple's SFMono font nerd-font patched and ligaturized
 - [Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack) - A typeface designed for source code
 - [Exa](https://github.com/ogham/exa) - A modern replacement for `ls`
