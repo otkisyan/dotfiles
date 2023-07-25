@@ -4,9 +4,14 @@
 ![astronvim screenshot](./images/astronvim.png)
 The wallpaper from the screenshots can be found [here](https://github.com/dotnet-presentations/dotNET20th)
 
-# Setup
+## Setup
 
 [![ci](https://github.com/otkisyan/dotfiles/actions/workflows/macos.yml/badge.svg)](https://github.com/otkisyan/dotfiles/actions/workflows/macos.yml)
+
+### Prerequisites:
+
+- Xcode Command Line Tools
+- Homebrew
 
 To set up the dotfiles run the appropriate snippet in the terminal:
 
@@ -14,15 +19,9 @@ To set up the dotfiles run the appropriate snippet in the terminal:
 bash -c "$(curl -LsS https://raw.githubusercontent.com/otkisyan/dotfiles/master/scripts/setup.sh)"
 ```
 
-**NOTE:** Setup requires Xcode Command Line Tools, to install it do:
-
-```bash
-xcode-select --install
-```
-
 **DON'T** run the setup script if you don't understand [what it does](scripts/setup.sh). Proceed at your own risk!
 
-# Terminal Setup
+## Terminal Setup
 
 - [iTerm2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm
 - [Oh My Zsh](https://ohmyz.sh/) - Oh My Zsh is an open source, community-driven framework for managing your Zsh configuration
@@ -38,7 +37,7 @@ xcode-select --install
 - [.zshrc](./src/.zshrc) - Zsh Shell Configuration
 - [solarized-nightfly.itermcolors](./src/solarized-nightfly.itermcolors) - iTerm2 Color Scheme
 
-# Tmux Setup
+## Tmux Setup
 
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
@@ -51,7 +50,7 @@ xcode-select --install
 
 - [.tmux.conf](./src/.tmux.conf) - Tmux Configuration File
 
-# Neovim setup
+## Neovim setup
 
 I use [AstroNvim](https://github.com/AstroNvim/AstroNvim) - an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 
