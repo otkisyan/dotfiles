@@ -8,7 +8,7 @@ The wallpaper from the screenshots can be found [here](https://github.com/dotnet
 
 [![ci](https://github.com/otkisyan/dotfiles/actions/workflows/macos.yml/badge.svg)](https://github.com/otkisyan/dotfiles/actions/workflows/macos.yml)
 
-### Prerequisites:
+### Prerequisites
 
 - Xcode Command Line Tools
 - Homebrew

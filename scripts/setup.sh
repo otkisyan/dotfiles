@@ -6,11 +6,12 @@ CLONE_DIR="$HOME/dotfiles"
 git clone $REPO_URL $CLONE_DIR
 cd $CLONE_DIR
 
+bash ./scripts/tmux.sh
 bash ./scripts/brew.sh
 bash ./scripts/npm.sh
 bash ./scripts/nvim.sh
-bash ./scripts/oh-my-zsh.sh
 bash ./scripts/tmux.sh
+bash ./scripts/oh-my-zsh.sh
 
 cp -f ./src/solarized-nightfly.itermcolors ~/
 
