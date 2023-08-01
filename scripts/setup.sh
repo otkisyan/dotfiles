@@ -6,7 +6,6 @@ CLONE_DIR="$HOME/dotfiles"
 git clone $REPO_URL $CLONE_DIR
 cd $CLONE_DIR
 
-bash ./scripts/tmux.sh
 bash ./scripts/brew.sh
 bash ./scripts/npm.sh
 bash ./scripts/nvim.sh
