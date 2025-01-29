@@ -11,8 +11,8 @@ bash ./scripts/npm.sh
 bash ./scripts/nvim.sh
 bash ./scripts/tmux.sh
 bash ./scripts/oh-my-zsh.sh
+bash ./scripts/kitty.sh
 
-cp -f ./src/solarized-nightfly.itermcolors ~/
 
 cd ..
 rm -rf "$CLONE_DIR"
