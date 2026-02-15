@@ -1,0 +1,12 @@
+:set rnu
+let mapleader = " "
+nmap 'b <Action>(NextTab)
+nmap ;b <Action>(PreviousTab)
+nmap <leader>q <Action>(CloseEditor)
+
+nmap gl <Action>(QuickJavaDoc)
+nmap gi <Action>(GotoImplementation)
+nmap gd <Action>(GotoDeclaration)
+
+nmap <leader>rn <Action>(RenameElement)
+nmap <leader>oi <Action>(OptimizeImports)
